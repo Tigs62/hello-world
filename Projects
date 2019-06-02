@@ -27,3 +27,19 @@ Work
   
   I also want to be able to Log the temperature data and view it on a webpage.
   To do this, i think i will use a Raspberry Pi with an attached Hard Disk Drive, maybe in a 2.5" format.
+
+
+This is a list of the things i am trying to learn:
+  Hardware
+    -Raspberry Pi
+    -Arduino
+    -ESP32
+
+  Software
+    -Arduino IDE
+    -Python
+    -microPython
+    -Node Red
+
+   Concepts
+    -Web scraping
