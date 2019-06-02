@@ -1,0 +1,29 @@
+Hi Again,
+This is my list of Projects that i have in mind.  Some are for work, some for home and some are for Diabetes.
+
+Diabetes:
+  - Small Bg display
+  This is going to be a small, inexspenive display to show current Blood Glucose readings
+    Specifications:
+    -Small
+    -Inexpensive
+    -Easy to use
+    -Portable
+    -Battery powered
+    -Easy to programme
+  
+  - Wall Bg Display
+  This is similar to the above, except i want it to be larger and have an audible alarm.  I work in an office on my own, and sometimes i don't see anyone for many hours.  I want a wall mounted monitor in another room, so my colleagues can see if i am ok.
+
+Work
+  - Multiple Temperature Sensors
+  These will be to allow me to log the temperature in our factory, at different heights and over the large floor area.
+  The intention is to use something like the ESP32 microcontroller and multiple DS18B20 temperature sensors.
+  Specification
+  -Small
+  -Inexpensive
+  -Easy to use
+  -Mains or PoE powered
+  
+  I also want to be able to Log the temperature data and view it on a webpage.
+  To do this, i think i will use a Raspberry Pi with an attached Hard Disk Drive, maybe in a 2.5" format.
